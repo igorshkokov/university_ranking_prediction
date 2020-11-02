@@ -1,1 +1,1 @@
-# university_prediction
+# university_ranking_prediction
